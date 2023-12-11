@@ -56,12 +56,7 @@ Peer to Peer (P2P) data transfer within LAN. Under heavy development 🚧.
 
 ## Downloads
 
-- Android 
-<br>
-<a href='https://play.google.com/store/apps/details?id=dev.abhi.photon&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' ><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=240px/></a>
-<br>
-<a href="https://apt.izzysoft.de/fdroid/index/apk/dev.abhi.photon"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width=240px> </a>
-<br>
+
 
 - Windows
 <br>
